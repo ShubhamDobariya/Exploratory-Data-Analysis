@@ -38,12 +38,4 @@ To explore or run the notebooks locally:
 
    ```bash
    jupyter notebook
-
-
-
-
-
-
-
-
-
+   
